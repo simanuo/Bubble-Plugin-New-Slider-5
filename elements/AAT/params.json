@@ -1,0 +1,20 @@
+{
+    "display": "Element 432",
+    "category": "visual elements",
+    "icon": "ion-android-checkbox-blank",
+    "add_is_visible": true,
+    "default_dim": {
+        "width": 400,
+        "height": 200
+    },
+    "property_applications": {
+        "MinWidth": true
+    },
+    "states": {
+        "AAU": {
+            "caption": "dsaf",
+            "name": "dsaf",
+            "value": "text"
+        }
+    }
+}

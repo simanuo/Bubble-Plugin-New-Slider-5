@@ -1,0 +1,33 @@
+{
+    "human": "MangoPay API",
+    "auth": "oauth2_pw",
+    "token_endpoint": "https://api.sandbox.mangopay.com/v2.201/oauth/token/",
+    "shared_headers": {
+        "AAC": {
+            "key": "Content-Type",
+            "value": "application/json",
+            "private": true,
+            "visibility": "hidden"
+        }
+    },
+    "calls": {
+        "AAD": {
+            "name": "GET",
+            "method": "get",
+            "publish_as": "data",
+            "url": "https://api.sandbox.mangopay.com/v2.01/[ClientId]/users/[UserId]",
+            "url_params": {
+                "AAE": {
+                    "key": "ClientId",
+                    "value": "demo",
+                    "private": true
+                },
+                "AAF": {
+                    "key": "UserId",
+                    "value": "23324770",
+                    "private": true
+                }
+            }
+        }
+    }
+}

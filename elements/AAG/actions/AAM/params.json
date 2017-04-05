@@ -1,0 +1,16 @@
+{
+    "caption": "agfgfd",
+    "fields": {
+        "AAN": {
+            "caption": "df",
+            "name": "df",
+            "editor": "StaticText",
+            "default_val": "fds"
+        },
+        "AAX": {
+            "caption": "fdafdsa",
+            "name": "fdafdsa",
+            "editor": "StaticText"
+        }
+    }
+}

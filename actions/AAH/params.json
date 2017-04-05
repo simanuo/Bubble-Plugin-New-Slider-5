@@ -1,0 +1,13 @@
+{
+    "display": "Action AB",
+    "category": "plugins",
+    "type": "client_side",
+    "fields": {
+        "AAI": {
+            "caption": "fds",
+            "name": "fdsfdsfds",
+            "editor": "StaticText",
+            "optional": true
+        }
+    }
+}

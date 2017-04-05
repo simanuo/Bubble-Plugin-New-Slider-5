@@ -1,0 +1,13 @@
+{
+    "display": "Action 2",
+    "category": "plugins",
+    "type": "client_side",
+    "fields": {
+        "AAS": {
+            "caption": "fds",
+            "name": "fds",
+            "editor": "key_value_list",
+            "value": "number"
+        }
+    }
+}

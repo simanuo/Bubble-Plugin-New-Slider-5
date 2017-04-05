@@ -1,0 +1,31 @@
+{
+    "display": "Element 1fdsa",
+    "category": "input forms",
+    "icon": "ion-android-checkbox-blank",
+    "add_is_visible": false,
+    "default_dim": {
+        "width": 100,
+        "height": 200
+    },
+    "property_applications": {
+        "resizable": true,
+        "Border": true,
+        "BoxShadow": true,
+        "MinWidth": true,
+        "Background": true
+    },
+    "states": {
+        "AAK": {
+            "caption": "dsa",
+            "name": "dsa",
+            "value": "text"
+        }
+    },
+    "events": {
+        "AAL": {
+            "caption": "fdsfds",
+            "name": "fdsfdsnn"
+        }
+    },
+    "add_hover_pressed": true
+}
