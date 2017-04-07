@@ -4,9 +4,9 @@
     "type": "client_side",
     "fields": {
         "AAI": {
-            "caption": "fds",
+            "caption": "This is a new caption",
             "name": "fdsfdsfds",
-            "editor": "StaticText",
+            "editor": "StaticNumber",
             "optional": true
         }
     }
