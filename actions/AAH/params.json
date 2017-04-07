@@ -1,7 +1,10 @@
 {
-    "display": "Action AB",
+    "display": "Action CAB",
     "category": "data (things)",
     "type": "client_side",
+    "states": {
+        "aaw": "fdsfds"
+    },
     "fields": {
         "AAI": {
             "caption": "fds",
