@@ -1,12 +1,15 @@
 {
-    "display": "Action AB",
+    "display": "Action ABC",
     "category": "data (things)",
     "type": "client_side",
+    "event":{
+        "VVE":"Click"
+    },
     "fields": {
         "AAI": {
-            "caption": "fds",
+            "caption": "This is a new caption",
             "name": "fdsfdsfds",
-            "editor": "StaticText",
+            "editor": "StaticNumber",
             "optional": true
         }
     }
