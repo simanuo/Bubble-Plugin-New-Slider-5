@@ -2,6 +2,9 @@
     "display": "Action ABC",
     "category": "data (things)",
     "type": "client_side",
+    "event":{
+        "VVE":"Click"
+    },
     "fields": {
         "AAI": {
             "caption": "This is a new caption",
